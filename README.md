@@ -1,0 +1,2 @@
+# modelatge-BBD
+MySQL Exercise
